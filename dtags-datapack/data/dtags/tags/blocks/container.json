@@ -1,0 +1,13 @@
+{
+	"values":[
+		"minecraft:chest",
+        "minecraft:ender_chest",
+        "minecraft:trapped_chest",
+        "minecraft:furnace",
+        "minecraft:barrel",
+        "minecraft:jukebox",
+        "minecraft:blast_furnace",
+        "minecraft:smoker",
+        "#minecraft:shulker_boxes"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"values":[
+		"minecraft:stone",
+        "minecraft:andesite",
+        "minecraft:granite",
+        "minecraft:diorite",
+        "minecraft:deepslate",
+        "minecraft:cobbled_deepslate",
+        "minecraft:cobblestone",
+        "minecraft:polished_andesite",
+        "minecraft:polished_granite",
+        "minecraft:polished_diorite",
+        "minecraft:polished_deepslate",
+        "minecraft:calcite",
+        "minecraft:tuff",
+        "minecraft:dripstone_block",
+        "#minecraft:coal_ores",
+        "#minecraft:iron_ores",
+        "#minecraft:copper_ores",
+        "#minecraft:gold_ores",
+        "#minecraft:redstone_ores",
+        "#minecraft:emerald_ores",
+        "#minecraft:lapis_ores",
+        "#minecraft:diamond_ores",
+        "minecraft:bedrock",
+        "minecraft:blackstone",
+        "minecraft:polished_blackstone"
+	]
+}
