@@ -15,10 +15,13 @@ Found in the "Wiki" tab of the Github page. Link: https://github.com/DragonPoika
 **Questions&Answers**
 
 Q: How do I know the tags are there and nothing's broken?
+
 _- A: The datapack has a reload message that should come when the world is loaded if you downloaded the full pack. If you downloaded only the tag and read the **How to use** you'll be fine. You can also check the log to see if there's something broken._
 
 Q: What's the easiest way to search for item's with the tag?
-_- A: In the creative inventory you can go to ```Search``` and type for example ```#glass``` if you're looking for blocks in the ```#dtags:glass``` tag. If you wanna clear your inventory from items with ```#dtags:glass``` tag, use ```/clear @s #dtags:glass```._
+
+_- A: In the creative inventory you can go to ```Search``` and type for example ```#glass``` if you're looking for blocks in the ```#dtags:glass``` tag._
 
 Q: How do I suggest new tags?
+
 _- A: You can do a bug report at https://github.com/DragonPoika/DragonTags/issues . Add the ```new tag``` label to it and it'll be looked into. Remember to add a  description for example ```"Includes all glass blocks and panes"``` would be good for ```#dtags:glass```._
