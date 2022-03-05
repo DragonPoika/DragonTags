@@ -4,7 +4,7 @@ A list of tags for Minecraft Datapacks
 **How to use**
 
 1. Download the whole pack or only the tags you want to use
-2. Add the ```dtags``` namespace to your datapacks ```data``` folder
+2. (IF you're gonna use it in your own pack/world and didn't download the full pack) Add the ```dtags``` namespace to your datapacks ```data``` folder
 3. Add the tags in their respective folders, for example ```#dtags:glass``` would be found as ```dtags:blocks/glass.json``` in your datapack
 4. Feel free to use the tags as long as you use them with credit. Make sure you have them in the dtags namespace!
 
