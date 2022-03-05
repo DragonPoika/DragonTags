@@ -24,4 +24,4 @@ _- A: In the creative inventory you can go to ```Search``` and type for example 
 
 Q: How do I suggest new tags?
 
-_- A: You can do a bug report at https://github.com/DragonPoika/DragonTags/issues . Add the ```new tag``` label to it and it'll be looked into. Remember to add a  description for example ```"Includes all glass blocks and panes"``` would be good for ```#dtags:glass```._
+_- A: You can do a bug report at https://github.com/DragonPoika/DragonTags/issues . Remember to add a  description for example ```"Includes all glass blocks and panes"``` would be good for ```#dtags:glass```._
