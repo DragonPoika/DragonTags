@@ -8,10 +8,6 @@ A list of tags for Minecraft Datapacks
 3. Add the tags in their respective folders, for example ```#dtags:glass``` would be found as ```dtags:blocks/glass.json``` in your datapack
 4. Feel free to use the tags as long as you use them with credit. Make sure you have them in the dtags namespace!
 
-**Documentation/Wiki**
-
-Found in the "Wiki" tab of the Github page. Link: https://github.com/DragonPoika/DragonTags/wiki
-
 **Questions&Answers**
 
 Q: How do I know the tags are there and nothing's broken?
