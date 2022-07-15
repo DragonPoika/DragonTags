@@ -25,6 +25,9 @@
         "minecraft:tropical_fish",
         "minecraft:turtle",
         "minecraft:villager",
-        "minecraft:wandering_trader"
+        "minecraft:wandering_trader",
+        "minecraft:frog",
+        "minecraft:allay",
+        "minecraft:tadpole"
 	]
 }
